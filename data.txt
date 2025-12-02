@@ -1,0 +1,3 @@
+name, age, city
+Atanu, 21, Kolkata
+Kriti, 20, Pune
